@@ -1,0 +1,5 @@
+/**
+ * @defgroup        boards_cc1350_launchpad TI CC1350 LaunchPad XL
+ * @ingroup         boards
+ * @brief           Texas Instruments SimpleLink(TM) CC1350 Wireless MCU LaunchPad(TM) Kit
+ */
